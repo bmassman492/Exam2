@@ -42,3 +42,5 @@ for i, col in enumerate(X.columns):
 formula += f" + {model.intercept_:.2f}"
 
 print("Multiple Regression Formula:", formula)
+
+print ("Go Brewers!")
